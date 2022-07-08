@@ -1,1 +1,4 @@
-# human-actovity-recognition
+# human-activity-recognition
+### data
+### train
+### test
